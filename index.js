@@ -2,7 +2,7 @@
 console.log("JavaScript is connected!");
 
 // Change the heading text
-document.querySelector("h1").textContent = "Welcome to My Website!";
+document.querySelector("h1").textContent = "Welcome to My first Website!";
 
 // Change the paragraph text
-document.querySelector("p").textContent = "This content was updated using JavaScript.";
+document.querySelector("p").textContent = "This content was updated using JavaScript.by me ";
